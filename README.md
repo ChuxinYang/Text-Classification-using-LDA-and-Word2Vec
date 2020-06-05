@@ -1,6 +1,6 @@
 # Text-Classification-using-LDA-and-Word2Vec
 
-We collected the COVID-19 related donation data from GoFundMe platform and classified campaigns using the supervised text classification. Specifically, we categorized campaigns based on beneficiaries: raised for selves and immediate family members (self) or for the organizations, institutes and healthcare workers (community). Here are the steps of the analysis:  
+We collected the COVID-19 related donation data from GoFundMe platform and classified campaigns using the text classification. Specifically, we categorized campaigns based on beneficiaries: raised for selves and immediate family members (self) or for the organizations, institutes and healthcare workers (community). Here are the steps of the analysis:  
 
 1. Data preprocessing  
 
